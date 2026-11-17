@@ -1,2 +1,3 @@
-# network-topology-diagrammer
-Automated network diagram generator converting JSON device inventories into Mermaid.js and Graphviz topology maps.
+# 🗺️ Automated Network Topology Map Generator
+
+Transforms structured network device connection maps into clean Mermaid.js and Graphviz architecture diagrams.
